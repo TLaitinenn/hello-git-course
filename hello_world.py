@@ -1,6 +1,6 @@
 
 def main():
-
+    print("Hello from feature")
     try:
         input_temp = float(input("Input temperature: "))
     except:
